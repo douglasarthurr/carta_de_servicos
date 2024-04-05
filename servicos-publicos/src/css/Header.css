@@ -39,3 +39,7 @@
    bottom: 10px;
    left: 8px;
 }
+
+#subtitle:visited{
+    color: rgb(26, 26, 26);
+}
