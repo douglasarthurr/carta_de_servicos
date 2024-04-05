@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+.header{
+    background-color: gainsboro;
+    padding: 5px;
+}
+
+#logo{
+    position: absolute;
+    left: 10px;
+    width: 50px;
+
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(6, 47, 124);
+    
+}
+
+#description{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    padding: 80px;
+}
+
+#developed{
+   position: absolute;
+   bottom: 10px;
+   left: 8px;
+}
+
+#subtitle:visited{
+    color: rgb(26, 26, 26);
+}
