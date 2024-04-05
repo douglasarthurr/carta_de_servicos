@@ -1,0 +1,17 @@
+.mainservicos {
+    width: 260px;
+    height: 180;
+    background-color: rgb(27, 27, 27);
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    gap: 15px;
+}
+#link {
+    color: white;
+    font-size: 18px;
+}
