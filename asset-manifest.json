@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carta_de_servicos/static/css/main.ed9bcf48.css",
+    "main.js": "/carta_de_servicos/static/js/main.fa8a5920.js",
+    "static/js/453.2773fde1.chunk.js": "/carta_de_servicos/static/js/453.2773fde1.chunk.js",
+    "static/media/acidente em servicos.jpg": "/carta_de_servicos/static/media/acidente em servicos.1ac322c730e631a32ad5.jpg",
+    "static/media/logo.png": "/carta_de_servicos/static/media/logo.46e49e16fbab446862fd.png",
+    "static/media/mobiliario.jpg": "/carta_de_servicos/static/media/mobiliario.976496b153887754bbd8.jpg",
+    "static/media/aposentadoria.jpg": "/carta_de_servicos/static/media/aposentadoria.7317e9bb751fcb8ac7d9.jpg",
+    "static/media/vale transporte.jpg": "/carta_de_servicos/static/media/vale transporte.c4eb888408400ab13444.jpg",
+    "static/media/financeiro.jpg": "/carta_de_servicos/static/media/financeiro.5342ea07b9216906deae.jpg",
+    "static/media/jornada.png": "/carta_de_servicos/static/media/jornada.aa7668aaf5cb82b2a47d.png",
+    "static/media/despesas medicas.webp": "/carta_de_servicos/static/media/despesas medicas.8bfabe0253a6b6b92a40.webp",
+    "static/media/casa de apoio.jpg": "/carta_de_servicos/static/media/casa de apoio.910ba73282ce28ee6b72.jpg",
+    "static/media/carga_horaria.webp": "/carta_de_servicos/static/media/carga_horaria.1f515d217debcb81c497.webp",
+    "index.html": "/carta_de_servicos/index.html",
+    "main.ed9bcf48.css.map": "/carta_de_servicos/static/css/main.ed9bcf48.css.map",
+    "main.fa8a5920.js.map": "/carta_de_servicos/static/js/main.fa8a5920.js.map",
+    "453.2773fde1.chunk.js.map": "/carta_de_servicos/static/js/453.2773fde1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9bcf48.css",
+    "static/js/main.fa8a5920.js"
+  ]
+}
